@@ -595,6 +595,7 @@ section{ position:relative; }
   .hero .container{ grid-template-columns:1fr; }
   .hero-visual{ display:none; }
   .about-grid{ grid-template-columns:1fr; }
+  .about-media{ position:relative; top:auto; }
   .about-media .float-card{ position:static; margin-top:16px; display:inline-block; }
   .role-detail, .achieve-full{ grid-template-columns:1fr; }
   .role-detail:nth-child(even){ direction:ltr; }
